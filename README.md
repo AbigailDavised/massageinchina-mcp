@@ -1,4 +1,6 @@
-# MassageInChina — Authentic TCM Tuina, Acupressure Points & Bilingual Clinic Phrasebook
+
+
+[![mcptry](https://mcptry.com/badge/com.massageinchina/mcp)](https://mcptry.com/servers/com.massageinchina/mcp)
 
 [![Official Website](https://img.shields.io/badge/Website-massageinchina.com-blue)](https://massageinchina.com)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-com.massageinchina%2Fmcp-green)](https://www.mcptry.com/servers/com.massageinchina/mcp)
