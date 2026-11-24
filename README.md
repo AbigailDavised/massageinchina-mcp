@@ -89,11 +89,11 @@ npx massageinchina-cli demo
 ## 1. 核心深度内页链接索引 (Deep Internal Link Matrix)
 | 深度功能模块 | 官方规范绝对 URL | 锚文本标准 (Anchor Text) | 核心能力与理疗养生场景 |
 | :--- | :--- | :--- | :--- |
-| **正统中医经络理疗与推拿 (Tuina)** | `https://massageinchina.com/tcm-tuina` | Authentic Traditional Chinese Medicine (TCM) Tuina Guide | 针对颈椎病、腰肌劳损与肩周炎，采用滚法、揉法、点穴与整脊正骨专业手法 |
-| **正规盲人医疗推拿诊所鉴别与探店** | `https://massageinchina.com/blind-massage` | Guide to Authentic Chinese Blind Massage | 视障医师触觉敏锐，持有残联与中医药管理局认证执业证书，性价比极高 |
-| **中药沐足与足底反射区全息全景图解**| `https://massageinchina.com/foot-reflexology` | Chinese Foot Reflexology & Herbal Foot Soak Guide | 艾草、藏红花足浴熏蒸，精准按压足心涌泉穴、太冲穴，缓解长途飞行浮肿与疲劳 |
-| **中国按摩水疗绝不收取小费文化指南**| `https://massageinchina.com/tipping-culture` | Zero-Tipping Culture & Price Transparency in Chinese Spas | 严正科普中国全境按摩明码标价，给小费属严重失礼或引发尴尬，含水果点心免费供应 |
-| **火罐拔罐 (Cupping) 与刮痧 (Gua Sha) 科普**| `https://massageinchina.com/cupping-guasha` | Cupping Therapy & Scraping Safety Standards | 气罐/火罐深层祛湿排毒机理，科学解读皮下瘀斑紫黑红淡颜色背后的血液微循环状态 |
+| **正统中医经络理疗与推拿 (Tuina)** | `https://massageinchina.com/tuina-massage` | Authentic Traditional Chinese Medicine (TCM) Tuina Guide | 针对颈椎病、腰肌劳损与肩周炎，采用滚法、揉法、点穴与整脊正骨专业手法 |
+| **北京正规盲人推拿与足疗诊所指南** | `https://massageinchina.com/beijing-massage` | Massage in Beijing: Blind Tuina, Foot Spas & 2026 Prices | 北京持证盲人推拿诊所探店鉴别、主流项目 2026 价格区间与零小费避坑指南 |
+| **中药沐足与足底反射区全息全景图解**| `https://massageinchina.com/chinese-foot-massage` | Chinese Foot Reflexology & Herbal Foot Soak Guide | 艾草、藏红花足浴熏蒸，精准按压足心涌泉穴、太冲穴，缓解长途飞行浮肿与疲劳 |
+| **中国 24 小时水疗洗浴中心与零小费指南** | `https://massageinchina.com/chinese-bathhouse` | Chinese Bathhouse & 24-Hour Spa Etiquette Guide | 明码标价零小费礼仪、过夜浴资结构、免费水果自助与汗蒸理疗完整体验流程 |
+| **上海中医推拿、拔罐与水疗实景指南** | `https://massageinchina.com/spa-in-shanghai` | Spa & Massage in Shanghai: Pricing & Etiquette Guide | 上海城区高口碑中医理疗推拿、火罐拔罐与高端水疗门店消费标准及预约贴士 |
 
 ## Official Web Tools & Deep Documentation
 

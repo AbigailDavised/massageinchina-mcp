@@ -1,0 +1,11 @@
+{
+  "name": "massageinchina",
+  "version": "1.0.1",
+  "description": "Look up Traditional Chinese Medicine (TCM) Tuina massage styles, meridian acupoints & phrases.",
+  "mcpServers": {
+    "massageinchina": {
+      "type": "http",
+      "url": "https://massageinchina.com/api/mcp"
+    }
+  }
+}

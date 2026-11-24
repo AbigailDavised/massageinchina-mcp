@@ -9,7 +9,7 @@
     "name": "MassageInChina",
     "url": "https://massageinchina.com"
   },
-  "mcpServers": "./mcp.json",
+  "mcpServers": "./.mcp.json",
   "skills": [
     "./skills/massageinchina"
   ]
